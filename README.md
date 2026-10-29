@@ -1,6 +1,7 @@
 # Olá 👋, Me chamo David
 
 🚀 **Sou estudante de Analise e Desenvolvimento de Sistemas (ADS)**
+
 🇧🇷 Brasil
 
 👋 Olá! Seja bem-vindo ao meu perfil!
@@ -14,18 +15,27 @@ Meu objetivo é evoluir constantemente como desenvolvedor, desenvolver projetos 
 🚀 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+
 🐍 Aprendendo Python e aprimorando minha lógica de programação.
+
 💻 Desenvolvendo projetos para colocar meus conhecimentos em prática.
+
 🧠 Estudando boas práticas, código limpo (Clean Code) e organização de software.
+
 🌐 Interessado em desenvolvimento web, sistemas e plataformas SaaS.
+
 📈 Buscando evolução contínua por meio de estudos e projetos.
+
 🤝 Aberto a colaborações, troca de conhecimentos e novas oportunidades.
 
 🛠️ Tecnologias e ferramentas
+
 Linguagens de programação
+
 !Python
 
 Ferramentas e ambiente de desenvolvimento
+
 !Git !GitHub !VS Code
 
 Meu foco atual é aprender os fundamentos da programação e evoluir gradualmente no uso dessas tecnologias.
@@ -33,13 +43,20 @@ Meu foco atual é aprender os fundamentos da programação e evoluir gradualment
 📚 O que estou estudando
 
 🐍 Fundamentos da linguagem Python.
+
 🧩 Lógica de programação e algoritmos.
+
 🏗️ Estruturas de dados e resolução de 
 problemas.
+
 🧹 Boas práticas e organização de código.
+
 🔀 Versionamento de código com Git e GitHub.
+
 🌐 Fundamentos do desenvolvimento web.
+
 💡 Desenvolvimento de projetos práticos para consolidar o aprendizado.
+
 📊 Estatísticas do GitHub
 
 <p align="left">
@@ -59,6 +76,7 @@ problemas.
 </p>
 
 🎯 Minha filosofia
+
 "Todo grande desenvolvedor já foi um iniciante.
 
 O importante é continuar aprendendo, praticando e transformando conhecimento em soluções reais."
