@@ -12,6 +12,7 @@ Atualmente, estou aprendendo Python e aprimorando meus conhecimentos em lógica 
 
 Meu objetivo é evoluir constantemente como desenvolvedor, desenvolver projetos cada vez melhores e transformar ideias em soluções úteis, eficientes e escaláveis.
 
+
 🚀 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -28,6 +29,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, desenvolver projetos 
 
 🤝 Aberto a colaborações, troca de conhecimentos e novas oportunidades.
 
+
 🛠️ Tecnologias e ferramentas
 
 Linguagens de programação
@@ -39,6 +41,7 @@ Ferramentas e ambiente de desenvolvimento
 !Git !GitHub !VS Code
 
 Meu foco atual é aprender os fundamentos da programação e evoluir gradualmente no uso dessas tecnologias.
+
 
 📚 O que estou estudando
 
@@ -57,12 +60,14 @@ problemas.
 
 💡 Desenvolvimento de projetos práticos para consolidar o aprendizado.
 
+
 📊 Estatísticas do GitHub
 
 <p align="left">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidAL1203&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAL1203&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
+
 
 🌐 Onde me encontrar
 
@@ -75,11 +80,13 @@ problemas.
 </a>
 </p>
 
+
 🎯 Minha filosofia
 
 "Todo grande desenvolvedor já foi um iniciante.
 
 O importante é continuar aprendendo, praticando e transformando conhecimento em soluções reais."
+
 
 ⭐ Se algum projeto meu for útil para você, considere deixar uma estrela!
 
